@@ -152,14 +152,14 @@
 	<string name="settings_other">Other settings</string>
 	<string name="settings_data_category">Data</string>
 	<string name="settings_author_title">Author</string>
-	<string name="settings_about_apollo">About Apollo</string>
+	<string name="settings_about_apollo">About Music Player</string>
 	<string name="settings_special_thanks">Special thanks</string>
 	<string name="settings_cyanogenmod_title" translatable="false">CyanogenMod</string>
 	<string name="settings_self_title" translatable="false">Andrew Neal</string>
 	<string name="settings_lopez_title" translatable="false">A.J. Lopez</string>
 	<string name="settings_lopez_summary">Icon and Play Store banner design</string>
-	<string name="settings_color_scheme_title">Choose Apollo\'s default color scheme</string>
-	<string name="settings_color_scheme_summary">Changes the accent color in Apollo</string>
+	<string name="settings_color_scheme_title">Choose Music Player\'s default color scheme</string>
+	<string name="settings_color_scheme_summary">Changes the accent color in Music Player</string>
 	<string name="settings_theme_chooser_title">Theme chooser</string>
 	<string name="settings_delete_cache_title">Delete cache</string>
 	<string name="settings_delete_cache_summary">Remove all cached images</string>
@@ -187,13 +187,13 @@
 	<string name="new_color">New</string>
 
 	<!-- App widget -->
-	<string name="app_widget_small" translatable="false">Apollo: 4×1</string>
-	<string name="app_widget_large" translatable="false">Apollo: 4×2</string>
-	<string name="app_widget_large_alt">Apollo: 4×2 (alternate)</string>
-	<string name="app_widget_recent">Apollo: recently listened</string>
+	<string name="app_widget_small" translatable="false">Music Player: 4×1</string>
+	<string name="app_widget_large" translatable="false">Music Player: 4×2</string>
+	<string name="app_widget_large_alt">Music Player: 4×2 (alternate)</string>
+	<string name="app_widget_recent">Music Player: recently listened</string>
 	<string name="app_widget_text_separator" translatable="false">-</string>
 
-	<!-- What keywords to use when shopping for Apollo themes -->
+	<!-- What keywords to use when shopping for Music Player themes -->
 
 	<!-- Empty list / error messages -->
 	<string name="no_effects_for_you">The equalizer could not be opened.</string>
